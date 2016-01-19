@@ -1,0 +1,11 @@
+[Protocol]
+exec=draco-qt '%u'
+protocol=draco
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

@@ -1,0 +1,2 @@
+debian/bin/dracod usr/bin
+src/dracod usr/lib/draco
